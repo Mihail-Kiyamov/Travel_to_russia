@@ -22,6 +22,7 @@
 @import url(../blocks/statictics/__container/statistics__container.css);
 @import url(../blocks/statictics/__title/statistics__title.css);
 @import url(../blocks/statictics/__text/statistics__text.css);
+@import url(../blocks/statictics/__list/statistics__list.css);
 @import url(../blocks/statictics/__digits/statistics__digits.css);
 @import url(../blocks/statictics/__digits/_font-weight/statistics__digits_font-weight_low.css);
 
