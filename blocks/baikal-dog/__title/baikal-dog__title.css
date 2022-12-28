@@ -1,16 +1,18 @@
 .baikal-dog__title {
+    width: 560px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     color: #ffffff;
-    margin: 0;
+    margin: 0 auto;
     margin-bottom: 32px;
 }
 
 @media screen and (max-width: 500px) {
     .baikal-dog__title {
+        width: 288px;
         font-size: 32px;
         line-height: 35px;
     }
