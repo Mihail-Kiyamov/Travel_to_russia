@@ -1,13 +1,13 @@
 .baikal-dog__title {
     width: 560px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     color: #ffffff;
+    text-align: center;
     margin: 0 auto;
-    margin-bottom: 32px;
+    z-index: 5;
 }
 
 @media screen and (max-width: 500px) {

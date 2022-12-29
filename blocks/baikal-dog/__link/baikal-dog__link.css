@@ -1,3 +1,29 @@
-.baikal-dog__link:hover .baikal-dog__background-image {
+.baikal-dog__link {
+    margin: 0;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    aspect-ratio: 1184/740;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    position: relative;
+}
+
+.baikal-dog__link::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #2A2C2F;
     opacity: 0.3;
+}
+
+.baikal-dog__link:hover::after {
+    opacity: 0.7;
 }
