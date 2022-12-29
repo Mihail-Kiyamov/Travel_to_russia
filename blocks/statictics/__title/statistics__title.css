@@ -1,4 +1,6 @@
 .statistics__title {
+    width: 100%;
+    max-width: 690px;
     font-style: normal;
     font-weight: 900;
     font-size: 54px;
