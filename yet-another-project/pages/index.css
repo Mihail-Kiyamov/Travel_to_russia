@@ -1,0 +1,48 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/Inter/inter.css);
+
+@import url(../blocks/background/background.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__language/_enable/header__language_enable.css);
+@import url(../blocks/header/__languages/header__languages.css);
+@import url(../blocks/header/__russia-logo/header__russia-logo.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle.css/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__postscript/lead__postscript.css);
+
+@import url(../blocks/statictics/statistics.css);
+@import url(../blocks/statictics/__title/statistics__title.css);
+@import url(../blocks/statictics/__text/statistics__text.css);
+@import url(../blocks/statictics/__list/statistics__list.css);
+@import url(../blocks/statictics/__digits/statistics__digits.css);
+@import url(../blocks/statictics/__number/statistics__number.css);
+
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
+
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__links/place__links.css);
+@import url(../blocks/place/__url/place__url.css);
+@import url(../blocks/place/__link-text/place__link-text.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__image/place__image.css);
+
+@import url(../blocks/baikal-dog/baikal-dog.css);
+@import url(../blocks/baikal-dog/__link/baikal-dog__link.css);
+@import url(../blocks/baikal-dog/__title/baikal-dog__title.css);
+@import url(../blocks/baikal-dog/__subtitle/baikal-dog__subtitle.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__link-text/footer__link-text.css);
+@import url(../blocks/footer/__author/footer__author.css);
