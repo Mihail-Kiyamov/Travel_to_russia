@@ -1,0 +1,22 @@
+.baikal-dog {
+    margin: 92px 48px 0;
+}
+
+@media screen and (max-width: 1100px) {
+    .baikal-dog {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .baikal-dog {
+        margin-top: 90px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .baikal-dog {
+        margin-top: 64px;
+    }
+}
