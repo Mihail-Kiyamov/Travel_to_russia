@@ -10,7 +10,7 @@
     z-index: 5;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     .baikal-dog__title {
         width: 230px;
         font-size: 32px;
