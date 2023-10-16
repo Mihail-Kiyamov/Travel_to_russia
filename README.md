@@ -1,6 +1,6 @@
 # **Проект: Путешествие по России**
 
-### Ссылка на проект https://mihail-kiyamov.github.io/yet-another-project/ ###
+### [Ссылка на проект](https://mihail-kiyamov.github.io/Travel_to_russia/) ###
 
 ## **Цель сайта:**  
 1. Показать туризм по России
